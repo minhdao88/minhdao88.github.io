@@ -2,7 +2,7 @@
   "name": "PWA demo",
   "short_name": "PWA demo",
   "lang": "en-US",
-  "start_url": "localhost:8003",
+  "start_url": "https://minhdao88.github.io",
   "display": "standalone",
   "icons": [
     {
@@ -41,5 +41,6 @@
       "type": "image\/png",
       "density": "4.0"
     }
-  ]
+  ],
+  "background_color": "#717981"
 }
